@@ -168,15 +168,6 @@ Sulekhak-code/
 └── README.md              # This file
 ```
 
-## Contributing
-
-Contributions are welcome! Here are some ways you can contribute:
-
-- Report bugs or suggest features by opening an issue
-- Improve documentation
-- Submit pull requests with enhancements
-- Share your experience and results
-
 ## Tips and Best Practices
 
 - **Image Quality**: Use high-resolution images (300 DPI or higher) for best cropping results
